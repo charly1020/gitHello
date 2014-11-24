@@ -8,7 +8,7 @@ public class Puteador {
 	}
 	
 	public String sayChoto(String person){
-		return "Hola choto " + person;
+		return "Hola choto del ano " + person;
 	}
 
 }
