@@ -9,5 +9,9 @@ public class Saludador {
 	public String sayBye(String person){
 		return "Adiós " + person;
 	}
+	
+	public String sayHelloNewBranch (){
+		return "Hola new branch..";
+	}
 
 }
