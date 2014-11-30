@@ -8,9 +8,10 @@ public class Main {
 		Saludador saludador = new Saludador();
 		Puteador puteador = new Puteador();
 		
-		System.out.println(saludador.sayHello("Robertito"));
-		System.out.println(puteador.sayPuta("Sabrinita"));
+		System.out.println(saludador.sayHello("Robertito Funes Uriarte"));
+		System.out.println(puteador.sayPuta("Sabrinita Lucero"));
 		System.out.println(puteador.sayChoto("Juanito"));
+
 
 	}
 
