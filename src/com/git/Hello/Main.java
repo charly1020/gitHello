@@ -6,10 +6,11 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		Saludador sal = new Saludador();
-		Puteador put = new Puteador();
+		Puteador putead = new Puteador();
 		
 		System.out.println(sal.sayHello("Robertito"));
-		System.out.println(put.sayPuta("Sabrinita"));
+		System.out.println(putead.sayPuta("Sabrinita"));
+		System.out.println(putead.sayChoto("Juanito"));
 
 	}
 
