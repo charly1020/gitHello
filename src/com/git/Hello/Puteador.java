@@ -10,5 +10,9 @@ public class Puteador {
 	public String sayChoto(String person){
 		return "Hola hermoso " + person;
 	}
+	
+	public String opinionNewFeature(){
+		return "Q nuevo feature ni 8 cuartos";
+	}
 
 }
