@@ -8,8 +8,8 @@ public class Main {
 		Saludador sal = new Saludador();
 		Puteador putis = new Puteador();
 		
-		System.out.println(sal.sayHello("Robertito"));
-		System.out.println(putis.sayPuta("Sabrinita"));
+		System.out.println(sal.sayHello("Robertito Funes Uriarte"));
+		System.out.println(putis.sayPuta("Sabrinita Lucero"));
 
 	}
 
